@@ -26,8 +26,10 @@ lalu ketik code seperti berikut :
   </script>
 </body>
 </html>
+
 ![Screenshot (192)](https://user-images.githubusercontent.com/101470912/163547979-bd151647-7073-4c54-821f-31ff2acedda7.png)
 Maka hasilnya akan seperti berikut :
+
 ![Screenshot (193)](https://user-images.githubusercontent.com/101470912/163548082-065c5af1-a4b2-46d6-b3a1-4db92e802823.png)
 Klik tombol f12 pada komputer anda, agar bisa melihat console.log.
 
